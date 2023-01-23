@@ -15,4 +15,8 @@ public class HelloWorld {
         // v3.5 fixed version
     }
 
+    private void f4() {
+        // v4.0
+    }
+
 }
